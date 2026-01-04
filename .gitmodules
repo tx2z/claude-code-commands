@@ -1,0 +1,27 @@
+[submodule "claude-code-security-scan"]
+	path = claude-code-security-scan
+	url = https://github.com/tx2z/claude-code-security-scan.git
+[submodule "claude-code-code-review"]
+	path = claude-code-code-review
+	url = https://github.com/tx2z/claude-code-code-review.git
+[submodule "claude-code-refactor-scan"]
+	path = claude-code-refactor-scan
+	url = https://github.com/tx2z/claude-code-refactor-scan.git
+[submodule "claude-code-doc-gen"]
+	path = claude-code-doc-gen
+	url = https://github.com/tx2z/claude-code-doc-gen.git
+[submodule "claude-code-api-validator"]
+	path = claude-code-api-validator
+	url = https://github.com/tx2z/claude-code-api-validator.git
+[submodule "claude-code-test-coverage-audit"]
+	path = claude-code-test-coverage-audit
+	url = https://github.com/tx2z/claude-code-test-coverage-audit.git
+[submodule "claude-code-performance-scan"]
+	path = claude-code-performance-scan
+	url = https://github.com/tx2z/claude-code-performance-scan.git
+[submodule "claude-code-release-notes"]
+	path = claude-code-release-notes
+	url = https://github.com/tx2z/claude-code-release-notes.git
+[submodule "claude-code-kb-generator"]
+	path = claude-code-kb-generator
+	url = https://github.com/tx2z/claude-code-kb-generator.git
