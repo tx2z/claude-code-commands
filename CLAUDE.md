@@ -128,4 +128,4 @@ When working in this repository:
 4. Use WebSearch in agents to look up current best practices
 5. Always include multi-language support in detection patterns
 6. Generate timestamped reports to `[command]-reports/` directories
-7. **Always use `gh` (GitHub CLI) for all git operations** - use `gh repo sync`, `gh pr create`, etc. instead of raw git commands for push/pull/PR operations
+7. **Use `gh` (GitHub CLI) for GitHub operations** - use `gh auth setup-git` for credentials, `gh pr create` for PRs, `gh issue` for issues, etc. Regular `git push/pull` commands work once gh credentials are configured
